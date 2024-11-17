@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hosting Dźwięku</title>
+</head>
+<body>
+    <h1>Pliki dźwiękowe</h1>
+    
+    <!-- Przykład osadzenia pliku dźwiękowego -->
+    <audio controls>
+        <source src="Bamboleo x Narcos (Nalo Remix) (mp3cut.net)" type="audio/mp3">
+        Twoja przeglądarka nie obsługuje odtwarzacza audio.
+    </audio>
+</body>
+</html>
